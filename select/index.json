@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Beautiful World",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2025-12-28T01:32:15.824840Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Beautiful World (feat. Lori Mckenna)",
+      "artist": "Wade Bowen feat. Lori McKenna",
+      "has_synced": true,
+      "path": "select/01_A_Beautiful_World_(feat._Lori_Mckenna)_Wade_Bowen_feat._Lori_McKenna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Beautiful World (feat. Lori Mckenna)",
+      "artist": "Wade Bowen",
+      "has_synced": true,
+      "path": "select/02_A_Beautiful_World_(feat._Lori_Mckenna)_Wade_Bowen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There She Goes, My Beautiful World",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/03_There_She_Goes,_My_Beautiful_World_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "There She Goes, My Beautiful World",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/04_There_She_Goes,_My_Beautiful_World_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's A Beautiful World",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/05_It's_A_Beautiful_World_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cruel Crazy Beautiful World",
+      "artist": "Johnny Clegg & Savuka",
+      "has_synced": false,
+      "path": "select/06_Cruel_Crazy_Beautiful_World_Johnny_Clegg_&_Savuka.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cruel Crazy Beautiful World",
+      "artist": "Johnny Clegg and Savuka",
+      "has_synced": false,
+      "path": "select/07_Cruel_Crazy_Beautiful_World_Johnny_Clegg_and_Savuka.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beautiful World",
+      "artist": "Archive",
+      "has_synced": true,
+      "path": "select/08_Beautiful_World_Archive.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful World",
+      "artist": "Devo",
+      "has_synced": false,
+      "path": "select/09_Beautiful_World_Devo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful World",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/10_Beautiful_World_Devo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful World",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/11_Beautiful_World_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beautiful World",
+      "artist": "Beth Orton",
+      "has_synced": false,
+      "path": "select/12_Beautiful_World_Beth_Orton.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beautiful World",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/13_Beautiful_World_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I.G.Y. (What a Beautiful World)",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/14_I.G.Y._(What_a_Beautiful_World)_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "There Goes a Beautiful World",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/15_There_Goes_a_Beautiful_World_Ultravox.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Beautiful World",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/16_Beautiful_World_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sad and Beautiful World",
+      "artist": "Sparklehorse",
+      "has_synced": true,
+      "path": "select/17_Sad_and_Beautiful_World_Sparklehorse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_World_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Beautiful_World_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Beautiful_World_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_Beautiful_World_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_Beautiful_World_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_Beautiful_World_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_07_Beautiful_World_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_08_Beautiful_World_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_09_Beautiful_World_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Beautiful World",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_10_Beautiful_World_宇多田_ヒカル.txt"
+    }
+  ]
+}
